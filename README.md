@@ -1,2 +1,2 @@
 # Python
-This is my first code
+This is my first programming language.
